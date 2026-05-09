@@ -1,0 +1,29 @@
+# Dependencies
+/node_modules/
+
+# Envitonment variables
+/.env
+/.env.local
+
+# Logs
+Logs
+*.Logsnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+#Runtime data
+*pids
+*.pids*.speed
+*.pid.lock
+
+#converage
+converage
+.nyc_output
+
+# OS generated files
+.DS_Store
+Thumbes.db
+
+#Editor
+.vscode
+.idea
